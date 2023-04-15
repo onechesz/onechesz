@@ -6,7 +6,8 @@
 <p><strong>Skills</strong>:</p>
 <ul>
   <li>🐍 Python 3.10 (Django, Aiogram, AioHttp)</li>
-  <li>☕ Java 19 (Spring Framework).</li>
+  <li>☕ Java 19 (Spring Framework)</li>
+  <li>📊 Databases (PostgreSQL, MySQL, SQLite, DjangoORM, SQLAlchemy, Spring Data JPA, Hibernate)</li>
 </ul>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=onechesz&show_icons=true&count_private=true)
