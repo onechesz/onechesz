@@ -1,7 +1,7 @@
 <h1>Hello. My name is Ivan.</h1>
 <h3>I am back-end developer on Python & Java.</h3>
 <p>I study at Volgograd State University and work with web apps, Telegram-bots, parsers and other stuff.</p>
-<p>I am currently working on <a href="https://github.com/onechesz/cryptocurrency_bot">CryptoBot</a> and Spring web-app.</p>
+<p>I am currently working on <a href="https://github.com/onechesz/cryptocurrency_bot">CryptoBot</a> and <a href="https://github.com/onechesz/marketplaces-parser">Marketplaces Parser</a>.</p>
 
 <p><strong>Skills</strong>:</p>
 <ul>
