@@ -5,9 +5,9 @@
 
 <p><strong>Skills</strong>:</p>
 <ul>
-  <li>🐍 Python 3.10 (Django, Aiogram, AioHttp) — <i>2.5 years</i></li>
-  <li>☕ Java 19 (Spring Framework) — <i>1 year</i></li>
-  <li>📊 Databases (PostgreSQL, MySQL, SQLite, DjangoORM, SQLAlchemy, Spring Data JPA, Hibernate) — <i>2 years</i></li>
+  <li>🐍 Python 3.10 (Django, Aiogram, AioHttp) — <i>2.5+ years</i></li>
+  <li>☕ Java 19 (Spring Framework) — <i>1+ year</i></li>
+  <li>📊 Databases (PostgreSQL, MySQL, SQLite, DjangoORM, SQLAlchemy, Spring Data JPA, Hibernate) — <i>2+ years</i></li>
 </ul>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=onechesz&show_icons=true&count_private=true)
