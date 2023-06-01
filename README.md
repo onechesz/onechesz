@@ -6,7 +6,7 @@
 <p><strong>Skills</strong>:</p>
 <ul>
   <li>🐍 Python 3.11 (Django, Aiogram, AioHttp) — <i>2.5+ years</i></li>
-  <li>☕ Java 20 (Spring Framework) — <i>1+ year</i></li>
+  <li>☕ Java 20 (Spring Framework, JavaFX) — <i>1+ year</i></li>
   <li>📊 Databases (PostgreSQL, MySQL, SQLite, DjangoORM, SQLAlchemy, Spring Data JPA, Hibernate) — <i>2+ years</i></li>
 </ul>
 
