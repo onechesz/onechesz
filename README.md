@@ -1,11 +1,15 @@
 <h1>Hello. My name is Ivan.</h1>
-<h3>I am back-end developer on Python & Java.</h3>
-<p>I study at Volgograd State University and work with web apps, Telegram-bots, parsers and other stuff.</p>
-<p>I am currently working on <a href="https://github.com/onechesz/cryptocurrency_bot">CryptoBot</a> and <a href="https://github.com/onechesz/marketplaces-parser">Marketplaces Parser</a>.</p>
+<h3>I am Java software engineer.</h3>
+<p>I study at Volgograd State University (for a master's degree and have a bachelor's degree) and work with web, desktop apps and other stuff.</p>
+<p>I am currently working on "Media Battle" (my own project).</p>
+
+<p><strong>Companies' test tasks I have done:</strong></p>
+<ul>
+  <li><a href="https://github.com/onechesz/axiomatioka-test-task">APM for managers</a> — 20-25 hours</li>
+</ul>
 
 <p><strong>Skills</strong>:</p>
 <ul>
-  <li>🐍 Python 3.11 (Django, Aiogram, AioHttp) — <i>2.5+ years</i></li>
   <li>☕ Java 20 (Spring Framework, JavaFX) — <i>1+ year</i></li>
   <li>📊 Databases (PostgreSQL, MySQL, SQLite, DjangoORM, SQLAlchemy, Spring Data JPA, Hibernate) — <i>2+ years</i></li>
 </ul>
