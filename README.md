@@ -6,6 +6,8 @@
 <p><strong>Companies' test tasks I have done:</strong></p>
 <ul>
   <li><a href="https://github.com/onechesz/axiomatioka-test-task">APM for managers</a> — 20-25 hours</li>
+  <li><a href="https://github.com/onechesz/zuzex-test-task">House manager</a> — 6 hours</li>
+  <li><a href="https://github.com/onechesz/effective-mobile-test-task">RESTful Social Network</a> — 35-40 hours</li>
 </ul>
 
 <p><strong>Skills</strong>:</p>
