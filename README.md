@@ -10,6 +10,7 @@
   <li><a href="https://github.com/onechesz/axiomatioka-test-task">APM for managers</a> — 20-25 hours</li>
   <li><a href="https://github.com/onechesz/zuzex-test-task">House manager</a> — 6 hours</li>
   <li><a href="https://github.com/onechesz/effective-mobile-test-task">RESTful Social Network</a> — 35-40 hours</li>
+  <li><a href="https://github.com/onechesz/kte-labs-test-task">Appointment system</a> — 5 hours</li>
 </ul>
 
 <h2>Skills</h2>
