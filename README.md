@@ -1,8 +1,7 @@
 <h1>Hello. My name is Ivan.</h1>
 <h2>About</h2>
-<h3>I am Java software engineer.</h3>
+<h3>I am backend software engineer.</h3>
 <p>I study at Volgograd State University (for a master's degree and have a bachelor's degree) and work with web, desktop apps and other stuff.</p>
-<p>I am currently working on "Media Battle" (my own project).</p>
 
 <h2>For HRs</h2>
 <h4>Compainies' test tasks I've done:</h4>
@@ -16,8 +15,9 @@
 <h2>Skills</h2>
 <h4>My stack:</h4>
 <ul>
-  <li>☕ Java 20 (Spring Framework, JavaFX) — <i>1+ year</i></li>
-  <li>📊 Databases (PostgreSQL, MySQL, SQLite, DjangoORM, SQLAlchemy, Spring Data JPA, Hibernate) — <i>2+ years</i></li>
+  <li>☕ Java (Spring Framework, JavaFX) — <i>3+ years</i></li>
+  <li>🐍 Python (Django, Flask) — <i>3+ years</i></li>
+  <li>📊 Databases (PostgreSQL, MySQL, SQLite, DjangoORM, SQLAlchemy, Spring Data JPA, Hibernate) — <i>4+ years</i></li>
 </ul>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=onechesz&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onechesz&layout=compact&hide_border=true" /> |
