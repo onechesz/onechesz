@@ -19,6 +19,3 @@
   <li>🐍 Python (Django, Flask) — <i>3+ years</i></li>
   <li>📊 Databases (PostgreSQL, MySQL, SQLite, DjangoORM, SQLAlchemy, Spring Data JPA, Hibernate) — <i>4+ years</i></li>
 </ul>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=onechesz&show_icons=true&include_all_commits=true&hide_border=true&count_private=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onechesz&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
